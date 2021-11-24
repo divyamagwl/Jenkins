@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Test case for calculating mean of list of numbers
+# Test case for calculating multiplication of two numbers
 
 import unittest
 from program import multiply
