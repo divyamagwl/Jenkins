@@ -11,6 +11,9 @@ class TestMean(unittest.TestCase):
     def test_mul2(self):
         result2 = multiply(10, 0)
         self.assertEqual(result2, 0)
+    def test_mul3(self):
+        result3 = multiply(10, 10)
+        self.assertEqual(result3, 10)
 
 
 if __name__ == '__main__':
